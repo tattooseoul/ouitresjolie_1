@@ -2,7 +2,7 @@
   "name": "base",
   "private": true,
   "scripts": {
-    "build": "CI= npm run build",
+    "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore"
   },
